@@ -1,4 +1,4 @@
-# Trabalho de Graficos
+# Trabalho de Grafos
 
 Instruções de uso
 
